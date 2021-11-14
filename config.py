@@ -13,7 +13,7 @@ class Config:
     SQLALCHEMY_TRACK_MODIFICATIONS = True
 
 class ProdConfig(Config):
-  SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL?sslmode=require')
+  SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL')
 
 class DevConfig(Config):
 
