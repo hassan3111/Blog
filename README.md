@@ -40,7 +40,8 @@ To access this project on your local files, you can clone it using these steps
 1. python3.8
 2. Boostrap
 3. flask
-
+4. Html
+5.CSS
 
 ### Contact Info:
 
