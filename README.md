@@ -1,7 +1,7 @@
-
-
 ## Author
-Ali Hassan
+
+<!-- ## Author
+Ali Hassan -->
 
 ## Description
 Its a website that a user can input blogs and post them
