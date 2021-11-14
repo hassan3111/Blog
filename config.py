@@ -1,10 +1,8 @@
 import os
 
-import app
-
 class Config:
     SECRET_KEY = 'DZO3PQkI_yJy8e-2u_7Feg'
-    app.config["SQLALCHEMY_DATABASE_URI"]= 'postgresql+psycopg2://access:34567@localhost/hassan'
+    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://access:34567@localhost/hassan'
     UPLOADED_PHOTOS_DEST = 'app/static/photos'
     QUOTES_URL = 'http://quotes.stormconsultancy.co.uk/random.json'
     MAIL_SERVER = 'smtp.googlemail.com'
@@ -15,7 +13,7 @@ class Config:
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
 class ProdConfig(Config):
-   SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL?sslmode=require')
+  SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL?sslmode=require')
 
 class DevConfig(Config):
 
