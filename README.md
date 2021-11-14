@@ -2,8 +2,9 @@
 Ali Hassan
 
 # Description
-<!-- ## Author
-Ali Hassan -->
+Its a website that a user can input blogs and post them
+
+
 
 ## Description
 Its a website that a user can input blogs and post them
