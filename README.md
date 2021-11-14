@@ -4,11 +4,6 @@ Ali Hassan
 # Description
 Its a website that a user can input blogs and post them
 
-
-
-## Description
-Its a website that a user can input blogs and post them
-
 ### Prerequisites
 You need to have git installed
 You can install it with the following command in your terminal
