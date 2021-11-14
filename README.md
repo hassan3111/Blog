@@ -33,7 +33,7 @@ You Require to install
 ### Setup
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal
-1. Use this command to clone `$ git clone 
+1. Use this command to clone `$ git clone https://github.com/hassan3111/Blog
 
 1. This will clone the repository into your local folder
 
