@@ -12,7 +12,6 @@ You can install it with the following command in your terminal
 
 ## BDD
 
-
 | Behavior| input | output |
 | -------- | -------- | -------- |
 | Displays Home page   | click on sign up button on the navbar and input your data | the app will save your data and create a new account for you |
@@ -20,8 +19,8 @@ You can install it with the following command in your terminal
 | Enter your profile and edit | add your bio and picture | publish your bio and pictures |
 |  |  | |
 
-## Requirements
 
+## Requirements
 You Require to install
 
 * Python3.8 and above
