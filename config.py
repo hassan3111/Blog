@@ -1,5 +1,7 @@
 import os
 
+import app
+
 class Config:
     SECRET_KEY = 'DZO3PQkI_yJy8e-2u_7Feg'
     app.config["SQLALCHEMY_DATABASE_URI"]= 'postgresql+psycopg2://access:34567@localhost/hassan'
