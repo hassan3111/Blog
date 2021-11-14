@@ -48,6 +48,6 @@ aliimohamud185@gmail.com
 
 
 ## License
-MIT License 
+This is under [ MIT ] License 
 
 
