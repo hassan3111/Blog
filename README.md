@@ -34,14 +34,13 @@ You Require to install
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal
 1. Use this command to clone `$ git clone https://github.com/hassan3111/Blog
-
 1. This will clone the repository into your local folder
 
-## Technology Used
+## Technologies Used
+1. python3.8
+2. Boostrap
+3. flask
 
-* Python 3.8
-* Bootstrap 
-* Flask
 
 ### Contact Info:
 
